@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harshini-pokuru&label=Profile%20views&color=0e75b6&style=flat" alt="harshini-pokuru" /> </p>
 
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45" /> About Me:
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45" /> About Me
 - 🎓 Pursuing B.Tech at VIT-AP University
 - 🚀 Tech Enthusiast
 - 📍 Nellore, Andhra Pradesh
