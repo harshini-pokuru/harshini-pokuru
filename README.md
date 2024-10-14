@@ -48,7 +48,7 @@
 <div align="center">
     <a href="https://www.linkedin.com/in/harshini-pokuru-a84aa0290/" target="_blank"><img src="https://img.shields.io/badge/-Harshini%20Pokuru-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
     <a target="_blank" href="mailto:harshinipokuru@gmail.com"><img src="https://img.shields.io/badge/-harshinipokuru@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-    <a href="https://www.instagram.com/harshiee__xo/" target="_blank"><img src="https://img.shields.io/badge/-harshiee__xo-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+    <!--<a href="https://www.instagram.com/harshiee__xo/" target="_blank"><img src="https://img.shields.io/badge/-harshiee__xo-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>-->
 </div>
 
 ## Github Stats
